@@ -37,6 +37,7 @@ Estas pruebas siguen unas estrategias, dos de estas son:
     - Se comprueban los flujos entre unidades
     - También los flujos de ejecución dentro de cada unidad
     - ...
+
 ![Estrategias de Prueba](http://jamj2000.github.io/entornosdesarrollo/3/assets/caja_blanca-caja_negra.png)
 
 Ademas, las pruebas se pueden distingir entre dos tipos:
@@ -89,6 +90,7 @@ Se mide la calidad de un producto, para ello es necesario realizar las pertinene
 Algunas de estas pruebas són:
 
 -**QA**, este es un conjunto de actividades que garantizan la calidad en los procesos en los cuales se ha desarrolado el producto.
+
 -**QC** es un conjunto de actividades para garantizar la calidad de los productos.
 
 Ademas, tambien existen los factores de calidad, estos factores de calidad se pueden agrupar en 3 ámbitos:
